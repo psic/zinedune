@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=joueur
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ joueur\ ici.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=numero\ leMoteur\ monEquipe
+comment1.target=joueur(int,\ moteur,\ equipe)
+comment1.text=\n\ Constructeur\ d'objets\ de\ classe\ joueur\n
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=
+comment3.target=boolean\ isDomicile()
+comment4.params=
+comment4.target=void\ affiche()
+numComments=5

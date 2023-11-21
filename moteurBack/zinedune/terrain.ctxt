@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=terrain
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ terrain\ ici.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=
+comment1.target=terrain()
+comment1.text=\n\ Constructeur\ d'objets\ de\ classe\ terrain\n
+comment2.params=withCoordinate\ withNumber
+comment2.target=void\ affiche(boolean,\ boolean)
+comment3.params=uneEquipe
+comment3.target=void\ setEquipe(equipe)
+comment4.params=leBallon
+comment4.target=void\ setBallon(ballon)
+numComments=5

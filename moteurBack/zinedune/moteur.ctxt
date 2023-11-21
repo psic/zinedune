@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=moteur
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ moteur\ ici.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=
+comment1.target=moteur()
+comment1.text=\n\ Constructeur\ d'objets\ de\ classe\ moteur\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ start()
+numComments=4

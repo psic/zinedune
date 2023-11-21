@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=tactique
+comment0.text=\n\ D\u00E9crivez\ votre\ classe\ tactique\ ici.\n\n\ @author\ (votre\ nom)\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\n
+comment1.params=
+comment1.target=tactique()
+comment1.text=\n\ Constructeur\ d'objets\ de\ classe\ tactique\n
+comment2.params=
+comment2.target=void\ invert()
+comment3.params=laPosition\ isDefensive
+comment3.target=void\ addPosition(position,\ boolean)
+comment4.params=
+comment4.target=java.util.ArrayList\ getPositionsDefensives()
+comment5.params=
+comment5.target=void\ affiche()
+numComments=6
