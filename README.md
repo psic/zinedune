@@ -10,6 +10,14 @@ Pour ça il nous faut :
 + Avoir un générateur d'équipes, de joueurs, de ligue, de journées, de championnats
 + Avoir un site web
 
+## État d'avancement
+
++ Moteur de Calcul : 3%
++ Moteur de Rendu : 1%
++ Site Web Front : 0%
++ Site Web Back : 0%
++ BDD : 5%
+
 ## Moteur de Calcul de Match
 
 Produit un fichier de match au format JSON ou autre stockant les déplacements (et autres actions) des joueurs et du ballon pendant un match de 90 minutes
@@ -77,9 +85,13 @@ Un joueur n'a pas de poste pré-défini (CB, LB, MDC, ST, ...). Il a des habilit
 
 ## BDD
 
+Certainement MariaDB
+
 ### Schéma
 
 ### Générer des données
+
+Y'a du script, surement du Python
 
 ## Site Web
 
